@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div.container{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input#inputField, button#myBtn{
+    font-size: 1.2rem;
+}
+
+div.answer{
+    font-size: 2rem;
+    text-align: center;
+}
+
+span#right{
+    color: chartreuse;
+    font-size: 2.2rem;
+}
+
+span#wrong{
+    color:crimson;
+    font-size: 2.2rem;
+}
